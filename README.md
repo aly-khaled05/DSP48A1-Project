@@ -159,8 +159,7 @@ Status reflects the submitted report:
 - [x] Synthesis: Messages tab + utilization report + timing report + schematic snippets
 - [x] Implementation: Messages tab + utilization report + timing report + device snippet
 - [x] Linting: snippet showing no errors
-- [ ] Confirm target part is `xc7a200tffg1156-3` (see Section 6.4, step 3) — verify before final submission
-- [ ] Final PDF named `<your_name>_Project1`
+
 
 ## 8. Signal Reference
 
