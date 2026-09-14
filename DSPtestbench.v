@@ -131,7 +131,7 @@ initial  begin
         end
     end
     
-    repeat(100) begin`
+    repeat(100) begin
         OPMODE = 8'b00010000;
         A = 20;
         B = 10;
